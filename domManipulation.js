@@ -35,7 +35,7 @@ imageButton.addEventListener("click", function() {
     image.src = "https://i.pinimg.com/736x/08/8d/b6/088db6c9b21279a0f44d894f4ceba843.jpg";
 
 image.style.width = "300px";
-    image.style.border = "5px solid #42068c";
+image.style.border = "5px solid #42068c";
 
 });
 // Include the next tasks in the body of the function.
